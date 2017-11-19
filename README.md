@@ -1,7 +1,8 @@
-## CodeFights
+### CodeFights
 Content from CodeFights.com
 ======================
 Here I keep an uptodate (as of Nov 19 2017) record of content I've worked with on CodeFights.com
+
 Such as:
 - Algorithems
 - Daily Challenges
