@@ -1,2 +1,12 @@
-![CodeFights Logo](CodeFights.com/a9e2c9b0-6f20-4719-81e6-f42720bd3cc7-1497982159608.png)
+## CodeFights
 Content from CodeFights.com
+======================
+Here I keep an uptodate (as of Nov 19 2017) record of content I've worked with on CodeFights.com
+Such as:
+- Algorithems
+- Daily Challenges
+- Head-To-Head
+- Tournaments
+
+[Link to CodeFights.com Profile](https://codefights.com/profile/devin-wallace)
+
