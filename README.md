@@ -11,3 +11,7 @@ Such as:
 
 [Link to CodeFights.com Profile](https://codefights.com/profile/devin-wallace)
 
+
+`NOTE:`
+========
+`To veiw the screenshots right-click and open in new tab`
