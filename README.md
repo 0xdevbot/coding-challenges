@@ -12,6 +12,6 @@ Such as:
 [Link to CodeFights.com Profile](https://codefights.com/profile/devin-wallace)
 
 
-`NOTE:`
+_NOTE:_
 ========
-`To veiw the screenshots right-click and open in new tab`
+_To veiw the screenshots right-click and open in new tab_
