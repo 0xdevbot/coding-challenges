@@ -1,0 +1,11 @@
+ write a function that accepts a sequence (a list for example) and returns a new iterable (anything you can loop over) with adjacent duplicate values removed.
+
+For example:
+
+>>> compact([1, 1, 1])
+[1]
+>>> compact([1, 1, 2, 2, 3, 2])
+[1, 2, 3, 2]
+>>> compact([])
+[]
+
