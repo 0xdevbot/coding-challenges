@@ -1,4 +1,3 @@
-
 def is_anagram(word1, word2):
     '''
     Solution to the anagram problem

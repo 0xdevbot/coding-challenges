@@ -10,7 +10,6 @@ False
 True
 Make sure your function works with mixed case.
 
-
 Okay now to the bonuses...
 
 Bonus 1
