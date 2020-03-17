@@ -1,6 +1,6 @@
 is_perfect_square, accepts a number and returns True if it's a perfect square and False if it's not. A perfect square is any number which has an integer square root. So 25 is a perfect square but 24 is not, 9 is a perfect square but 8 is not, 100 is a perfect square but 1000 is not.
 
-Here's an example:
+example:
 
 >>> is_perfect_square(64)
 True
